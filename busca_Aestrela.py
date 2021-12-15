@@ -2,10 +2,7 @@
 #@Autor : Yuri Domingos
 # Data : 25 - 11 - 2021
 # Objectivo : Resolver a busca clássica " A* - Estrela )
-# Integrantes do grupo
-# 21400 – Denizia Fernanda Cassombe Cazequene
-# 20973 – Edson Paulo Augusto Gregório
-# 21711 – Yuri Francisco António Domingos
+
 
 
 arvore = {
